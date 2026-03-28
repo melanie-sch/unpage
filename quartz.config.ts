@@ -8,10 +8,10 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mel's Un-Page",
+    pageTitle: "Mel's un-page",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
@@ -29,13 +29,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#f7f2ef",
           lightgray: "#dacecc",
           gray: "#9d847f",
-          darkgray: "#51332d",
-          dark: "#201816",
-          secondary: "#a74531",
-          tertiary: "#db593f",
+          darkgray: "#451911",
+          dark: "#311a16",
+          secondary: "#9d3925",
+          tertiary: "#ca614c",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
@@ -43,10 +43,10 @@ const config: QuartzConfig = {
           light: "#1a1d1d",
           lightgray: "#3f4a49",
           gray: "#849398",
-          darkgray: "#d8f0ee",
-          dark: "#f2fffc",
+          darkgray: "#dfeae9",
+          dark: "#e5f0ed",
           secondary: "#5ebfd2",
-          tertiary: "#83dee3",
+          tertiary: "#83e3dd",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
