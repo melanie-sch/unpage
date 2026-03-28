@@ -21,7 +21,9 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({
+      showReadingTime: false,
+    }),
     Component.TagList(),
   ],
   left: [
@@ -34,11 +36,11 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        // { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer({
-      title: "My un-posts"
+      title: "All un-posts"
     }),
   ],
   right: [
