@@ -21,9 +21,9 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta({
-      showReadingTime: false,
-    }),
+    // Component.ContentMeta({
+    //   showReadingTime: false,
+    // }),
     Component.TagList(),
   ],
   left: [
@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "All un-posts"
+      title: "All pages"
     }),
   ],
   right: [

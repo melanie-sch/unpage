@@ -74,7 +74,7 @@ const config: QuartzConfig = {
         openLinksInNewTab: true,
        }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }),
       Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],

@@ -11,4 +11,4 @@ draft: false
 - [Perfectly cut screams](https://www.reddit.com/r/perfectlycutscreams/)
 - [Perfectly cut booms](https://www.reddit.com/r/PerfectlyCutBooms/)
 - [[dogs|Dog]] videos
-- This particular [memes playlist](https://youtube.com/playlist?list=PLrYrt8d61jf56C0fsqTlc0XdFF1-g9xGv&si=SNzD8-YOHoPpHEpT)
+- This particular [memes playlist](https://youtube.com/playlist?list=PLrYrt8d61jf56C0fsqTlc0XdFF1-g9xGv)
