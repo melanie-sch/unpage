@@ -4,6 +4,6 @@ draft: false
 ---
 ## My favorite game shows
 
-- Cash Cab
-- Jeopardy!
-- The $100,000 Pyramid
+1. Cash Cab
+2. Jeopardy!
+3. The $100,000 Pyramid

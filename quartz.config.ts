@@ -23,28 +23,28 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Golos Text",
-        body: "Inter",
+        header: "Lexend", // Golos Text, Lexend
+        body: "Rubik", // Inter, Noto Sans
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#f7f2ef",
-          lightgray: "#dacecc",
-          gray: "#9d847f",
-          darkgray: "#451911",
-          dark: "#311a16",
+          light: "#fbf9f8", // #f6f1ee
+          lightgray: "#d4c5bf", // #dacecc
+          gray: "#a48d84", // #9d847f
+          darkgray: "#462111", // #451911
+          dark: "#26150d", //311a16
           secondary: "#9d3925",
-          tertiary: "#ca614c",
+          tertiary: "#ca614c", //ca614c
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#1a1d1d",
-          lightgray: "#3f4a49",
-          gray: "#849398",
-          darkgray: "#dfeae9",
-          dark: "#e5f0ed",
+          light: "#1b1d1c", // #1a1d1d
+          lightgray: "#393c3b", // #3f4a49
+          gray: "#8b928f", // #849398
+          darkgray: "#edeeee", // #dfeae9
+          dark: "#f3f4f4", // #e5f0ed
           secondary: "#5ebfd2",
           tertiary: "#83e3dd",
           highlight: "rgba(143, 159, 169, 0.15)",
