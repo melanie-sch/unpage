@@ -3,7 +3,7 @@ title: 👋 Welcome to my un-page
 ---
 ![](https://usagif.com/wp-content/uploads/gifs/sunflower-61.gif)
 
-Hi! I made this website to write about random things. It’s my own spin-off on a social media page: my *“un-page”*.
+Hi! I made this website to write about random things. It’s my own spin-off of a social media page: my *“un-page”*.
 
 Everything here is intentionally unorganized. Take a look around by following a trail of links, pick something from the navigation, or start with one of these:
 
@@ -21,6 +21,6 @@ Everything here is intentionally unorganized. Take a look around by following a 
 | Stat         | Value          |
 | ------------ | -------------- |
 | Date started | March 27, 2026 |
-| Date updated | June 7, 2026   |
+| Date updated | June 21, 2026  |
 | Total pages  | 8              |
 | Total words  | 997            |

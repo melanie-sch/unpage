@@ -7,10 +7,9 @@ draft: false
 ## Stuff that makes me laugh
 
 1. [Unusual Videos](https://www.youtube.com/c/UnusualVideos)
-2. [r/memes](https://www.reddit.com/r/memes/)
-3. [Perfectly cut screams](https://www.reddit.com/r/perfectlycutscreams/)
-4. [Perfectly cut booms](https://www.reddit.com/r/PerfectlyCutBooms/)
-5. [[Puns]]
-6. Contagious laughter compilations
-7. Videos of [[dogs|dogs]] being dumb
-8. This particular [memes playlist](https://youtube.com/playlist?list=PLrYrt8d61jf56C0fsqTlc0XdFF1-g9xGv)
+2. Perfectly cut screams
+3. [Perfectly cut booms](https://www.reddit.com/r/PerfectlyCutBooms/)
+4. [[Puns]]
+5. Contagious laughter compilations
+6. Videos of [[dogs|dogs]] being dumb
+7. This particular [memes playlist](https://youtube.com/playlist?list=PLrYrt8d61jf56C0fsqTlc0XdFF1-g9xGv)

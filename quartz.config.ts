@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Mel's un-page",
-    pageTitleSuffix: " | Mel's un-page",
+    pageTitleSuffix: " - Mel's un-page",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
@@ -93,7 +93,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      // Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }
