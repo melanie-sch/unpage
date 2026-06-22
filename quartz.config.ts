@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://melanie-sch.github.io/unpage",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fbf9f8", // #f6f1ee
-          lightgray: "#d4c5bf", // #dacecc
-          gray: "#a48d84", // #9d847f
-          darkgray: "#462111", // #451911
-          dark: "#26150d", //311a16
-          secondary: "#9d3925",
-          tertiary: "#ca614c", //ca614c
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "hsl(20, 52%, 98%)", // #fbf9f8
+          lightgray: "hsl(20, 15%, 79%)", // #d4c5bf
+          gray: "hsl(20, 13%, 58%)", // #a48d84
+          darkgray: "hsl(20, 52%, 8%)", // #462111
+          dark: "hsl(20, 49%, 5%)", // #26150d
+          secondary: "#608e1a", // #9d3925
+          tertiary: "#526407", //ca614c
+          highlight: "#9ea88f26", // #8f9fa926
+          textHighlight: "#ffe13887",
         },
         darkMode: {
           light: "#1b1d1c", // #1a1d1d
@@ -47,8 +47,8 @@ const config: QuartzConfig = {
           dark: "#f3f4f4", // #e5f0ed
           secondary: "#5ebfd2",
           tertiary: "#83e3dd",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "#8f9fa926",
+          textHighlight: "#b89c0070",
         },
       },
     },
@@ -93,7 +93,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }

@@ -25,6 +25,10 @@ footer a {
         text-decoration: underline 1px;
 }
 
+.explorer-content ul li>a.active {
+    color: var(--secondary);
+}
+
 @media (max-width:800px) {
     h2.page-title {
         display: none;
