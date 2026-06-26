@@ -6,11 +6,11 @@ I like to draw comics and character illustrations.
 
 ## My digital art journey
 
-My first ever drawing tablet was a Wacom Intuos Draw. I think it’s more charming than the [newer Intuos models](https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos). It had crunchy action buttons in the corners that activated at the same time if you pressed down too hard. I smudged a huge, greasy circle in the center where my palm rested. The drivers were finicky, too.
+My first ever drawing tablet was a Wacom Intuos Draw from 2016. I think it’s more charming than the newer Intuos models. It had crunchy action buttons in the corners that activated at the same time if you pressed down too hard. I smudged a huge, greasy circle in the center where my palm rested. The drivers were finicky, too.
 
 Even with its many quirks, I adored this tablet. It lasted for almost six years!
 
-![](https://i1.wp.com/www.wellappointeddesk.com/wp-content/uploads/2016/01/intuos-draw-small-blue-1-g.jpg?resize=474%2C391&ssl=1)
+![|I had lots of fun with my old tablet](https://i1.wp.com/www.wellappointeddesk.com/wp-content/uploads/2016/01/intuos-draw-small-blue-1-g.jpg?resize=474%2C391&ssl=1)
 
 ## Rediscovery
 
