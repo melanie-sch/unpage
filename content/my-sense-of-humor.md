@@ -8,7 +8,7 @@ draft: false
 
 1. [Unusual Videos](https://www.youtube.com/c/UnusualVideos)
 2. Perfectly cut screams
-3. [Perfectly cut booms](https://www.reddit.com/r/PerfectlyCutBooms/)
+3. Perfectly cut booms
 4. [[puns|Puns]]
 5. Contagious laughter compilations
 6. Videos of [[dogs|dogs]] being dumb
