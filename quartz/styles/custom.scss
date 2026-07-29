@@ -1,3 +1,45 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+h1 {
+    letter-spacing: -0.5px;
+}
+
+h2 {
+    letter-spacing: -0.3px;
+}
+
+a.internal,
+a.internal-link-alias {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+}
+
+a.external .external-icon {
+    padding-left: 2px;
+}
+
+div.center a,
+footer a {
+    text-decoration: underline 1px;
+}
+
+.explorer-content ul li > a.active {
+    color: var(--secondary);
+}
+
+.toc ul li > a {
+    font-weight: 600;
+}
+
+.search>.search-container>.search-space>.search-layout>.results-container .result-card>h3 {
+    color: var(--dark);
+}
+
+@media (max-width:800px) {
+    h2.page-title {
+        display: none;
+    }
+}
